@@ -1,4 +1,4 @@
-# Currency Exchange rate Monitor
+# Currency Exchange Rate Monitor(GBP Vs LKR)
 A script to web scrape multiple SriLankan Financial organization websites to compare exchange rate of GBP Vs LKR and visualized with H2O Wave framework
 
 #### H2O wave
